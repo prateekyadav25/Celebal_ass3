@@ -13,4 +13,4 @@ Developed an end-to-end Customer Intelligence System using classification, ensem
 The final goal is to identify key factors driving customer responses to campaigns and effectively segment the customer base to optimize future marketing strategies.
 
 ## Dataset link
-[View Dataset on Kaggle](#)
+[View Dataset on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data?utm_source=chatgpt.com)
